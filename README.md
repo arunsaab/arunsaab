@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# About Me
-
 I am a software engineer with 5 years of professional experience, focused on continuously expanding and improving my skills. I currently work with React, AWS, JavaScript, and Node.js, building scalable web applications and cloud-backed services.
 
 ## Skills & Focus

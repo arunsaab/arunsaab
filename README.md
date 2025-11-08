@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**arunsaab/arunsaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I am a software engineer with 5 years of professional experience, focused on continuously expanding and improving my skills. I currently work with React, AWS, JavaScript, and Node.js, building scalable web applications and cloud-backed services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Focus
+- Frontend: React, modern JavaScript (ES6+), state management, performance tuning  
+- Backend: Node.js, REST APIs, server-side architecture, testing  
+- Cloud: AWS (deployments, serverless, infrastructure best practices)  
+- Tooling: CI/CD, testing frameworks, debugging, observability
+
+## Goals
+- Deepen knowledge of advanced AWS services and system architecture  
+- Improve TypeScript and full-stack design skills  
+- Contribute to open source and mentor junior engineers
+
+## Contact
+Find me on GitHub or reach out via the contact details in my profile.
